@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+myenv/
+venv/
+.venv/
+
+# Virtual environments (conda/venv)
+*/.venv/
+*/venv/
+*/env/
+*/conda-env/
+
+# Data files
+*.npz
+*.npy
+*.h5
+*.bam
+*.bam.bai
+*.sam
+*.vcf
+*.vcf.gz
+*.fa
+*.fai
+*.fastq
+*.fastq.gz
+*.bigWig
+*.bw
+*.bed
+*.bed.gz
+
+# Reference genomes
+*.fasta
+*.fasta.gz
+*.fa
+*.fa.gz
+*.fai
+
+# Log files and job outputs
+logs/
+*.out
+*.err
+slurm-*.out
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Output directories
+per_chrom_npz/
