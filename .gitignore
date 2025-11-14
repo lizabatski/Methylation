@@ -56,4 +56,6 @@ Thumbs.db
 .idea/
 
 # Output directories
-per_chrom_npz/
+to_delete/
+raw_data/
+histone_bigwigs?

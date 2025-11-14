@@ -3,8 +3,8 @@ pandas==2.1.1+computecanada
 pyBigWig==0.3.18+computecanada
 pyfaidx==0.5.9.5+computecanada
 tqdm==4.61.2+computecanada
-matplotlib==3.10.1+computecanada
+matplotlib==3.10.0+computecanada
 seaborn==0.10.0+computecanada
 biopython==1.84+computecanada
-h5py==3.13.0+computecanada
+h5py==3.12.0+computecanada
 jupyterlab==3.0.16+computecanada
